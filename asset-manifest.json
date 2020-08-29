@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cartoon-album/static/css/main.426dcfb5.chunk.css",
+    "main.js": "/cartoon-album/static/js/main.5acae485.chunk.js",
+    "main.js.map": "/cartoon-album/static/js/main.5acae485.chunk.js.map",
+    "runtime-main.js": "/cartoon-album/static/js/runtime-main.56b8bd01.js",
+    "runtime-main.js.map": "/cartoon-album/static/js/runtime-main.56b8bd01.js.map",
+    "static/js/2.42609e5e.chunk.js": "/cartoon-album/static/js/2.42609e5e.chunk.js",
+    "static/js/2.42609e5e.chunk.js.map": "/cartoon-album/static/js/2.42609e5e.chunk.js.map",
+    "index.html": "/cartoon-album/index.html",
+    "precache-manifest.5cc1561bea84d0324f953984f015f679.js": "/cartoon-album/precache-manifest.5cc1561bea84d0324f953984f015f679.js",
+    "service-worker.js": "/cartoon-album/service-worker.js",
+    "static/css/main.426dcfb5.chunk.css.map": "/cartoon-album/static/css/main.426dcfb5.chunk.css.map",
+    "static/js/2.42609e5e.chunk.js.LICENSE.txt": "/cartoon-album/static/js/2.42609e5e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56b8bd01.js",
+    "static/js/2.42609e5e.chunk.js",
+    "static/css/main.426dcfb5.chunk.css",
+    "static/js/main.5acae485.chunk.js"
+  ]
+}
